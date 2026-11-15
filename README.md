@@ -1,4 +1,5 @@
-# Quantitative-Harmonic-Benchmarks-for-the-Three-Dimensional-Quantum-Rotor-Kernel-within-the-FQCU-Prog
+# Quantitative-Harmonic-Benchmarks-for-the-Three-Dimensional-Quantum-Rotor-Kernel-Zero-Point Energy, Bond Fluctuations, Finite-Size Scaling, and Their Limits within the
+FQCU Programme
 Quantum Rotor Kernel — Harmonic Benchmarks and Validity Diagnostics 1
 Quantitative Harmonic Benchmarks for the
 Three-Dimensional Quantum Rotor Kernel
