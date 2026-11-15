@@ -1,0 +1,1 @@
+# Quantitative-Harmonic-Benchmarks-for-the-Three-Dimensional-Quantum-Rotor-Kernel-within-the-FQCU-Prog
